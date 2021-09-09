@@ -2,7 +2,7 @@
 <br>
 <h3 align="center"> Software Engineer from Karachi,Pakistan🇵🇰.</h3>
 
-My name is Muhib Arif 😉, An undergradute Software Engineering student 🧑‍💻 [@UIT](https://www.uit.edu/) 
+My name is Muhib Arif 😉, An undergradute Software Engineering student 🧑‍💻 [@UIT](https://www.uit.edu/) . I like to play football ⚽️🏃‍♂️, and curiosity to know how App are made and currently learning FLutter 🧑‍💻 . 
 
 <h1 align="left" font="bold">Who am I?😃.</h1>
 
