@@ -4,7 +4,7 @@
 
 <h1 align="left" font="bold">Who am I?😃.</h1>
 
-<img align="center" src="5eKX.gif" width="320" height="320" alt="Gif" />
+<img align="center" src="5eKX.gif" width="400" height="320" alt="Gif" />
 
 <h3 align="center">Technologies & Tools 🛠</h3>
 <div align-item="row">
