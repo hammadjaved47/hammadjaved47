@@ -2,6 +2,8 @@
 <br>
 <h3 align="center"> Software Engineer from Karachi,Pakistan🇵🇰.</h3>
 
+<p>My name is Muhib Arif 😉, An undergradute Software Engineering student 🧑‍💻 [@UIT](https://www.uit.edu/)</p>
+
 <h1 align="left" font="bold">Who am I?😃.</h1>
 
 <img align="right" src="5eKX.gif" width="400" height="320" alt="Gif" />
