@@ -1,17 +1,19 @@
 <h1 align="center"> Hi👋! Syed Musab Here! </h1>
 <br>
-<h3 align="center">A Professional Flutter Developer and a Computer Scientist from Karachi, Pakistan 🇵🇰. </h3>
+<h3 align="center">A Professional Flutter Developer from Karachi, Pakistan 🇵🇰. </h3>
 
 
 <h1 align="left" font="bold">Who am I?😃.</h1>
 
 My name is Syed Musab 😉, A Computer Science graduate from Sir Syed University of Engineering and Technology 🧑‍💻 [@SSUET](https://www.ssuet.edu.pk/) . I am a guy who is always in curiosity to learn something new.
-<br>
+
 <img align="right" src="5eKX.gif" width="400" height="320" alt="Gif" />
 
+<div>
 <h3 align="center">Technologies & Tools 🛠</h3>
-<br>
+</div>
 
+<div>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
