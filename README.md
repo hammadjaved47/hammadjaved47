@@ -8,7 +8,16 @@
 
 <h1 align="left" font="bold">Who am I?😃.</h1>
 
-My name is Syed Musab 😉, A Computer Science graduate from Sir Syed University of Engineering and Technology 🧑‍💻 [@SSUET](https://www.ssuet.edu.pk/) . I am a guy who is always in curiosity to learn something new. Hi, I'm a Flutter Developer with nearly 3 years of experience with flutter. I have worked on mainly some of the following app domains: \nHealth Care \nSocial Media \nFintech \nB2B \nTourism \nAirlines. I am a person with a powerful weapon of pen to poetries and words for creativity. Always in a curiosity to explore something extraordinary and interesting.
+My name is Syed Musab 😉, A Computer Science graduate from Sir Syed University of Engineering and Technology 🧑‍💻 [@SSUET](https://www.ssuet.edu.pk/) . I am a guy who is always in curiosity to learn something new. Hi, I'm a Flutter Developer with nearly 3 years of experience with flutter. I have worked on mainly some of the following app domains: 
+
+🚩Health Care 
+🚩Social Media 
+🚩Fintech 
+🚩B2B 
+🚩Tourism 
+🚩Airlines
+
+I am a person with a powerful weapon of pen to poetries and words for creativity. Always in a curiosity to explore something extraordinary and interesting.
 
 <div>
 <h3 align="center">Technologies & Tools 🛠</h3>
